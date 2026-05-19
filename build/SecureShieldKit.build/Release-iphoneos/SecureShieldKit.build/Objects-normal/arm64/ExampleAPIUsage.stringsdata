@@ -1,0 +1,64 @@
+{
+  "source": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Networking/Core/ExampleAPIUsage.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Network Security Shield",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 117
+        }
+      },
+      {
+        "comment": "",
+        "key": "Ready for Secure API Operations",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 130
+        }
+      },
+      {
+        "comment": "",
+        "key": "Fetch Profile Securely",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 135
+        }
+      },
+      {
+        "comment": "",
+        "key": "Processing Requests via Secure SDK...",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 153
+        }
+      },
+      {
+        "comment": "",
+        "key": "Refresh Request",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 191
+        }
+      },
+      {
+        "comment": "",
+        "key": "API Request Interrupted",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 218
+        }
+      },
+      {
+        "comment": "",
+        "key": "Retry Connection",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 229
+        }
+      }
+    ]
+  },
+  "version": 1
+}

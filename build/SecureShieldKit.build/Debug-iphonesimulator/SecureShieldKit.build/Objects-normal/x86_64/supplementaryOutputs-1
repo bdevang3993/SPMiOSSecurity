@@ -1,0 +1,37 @@
+{
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Analytics/MixpanelTracker.swift" : {
+    "const-values" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/x86_64/MixpanelTracker.swiftconstvalues",
+    "dependencies" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/x86_64/MixpanelTracker.d",
+    "diagnostics" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/x86_64/MixpanelTracker.dia",
+    "object" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/x86_64/MixpanelTracker.o",
+    "swift-dependencies" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/x86_64/MixpanelTracker.swiftdeps"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/AntiDebug/AntiDebugDetector.swift" : {
+    "const-values" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/x86_64/AntiDebugDetector.swiftconstvalues",
+    "dependencies" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/x86_64/AntiDebugDetector.d",
+    "diagnostics" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/x86_64/AntiDebugDetector.dia",
+    "object" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/x86_64/AntiDebugDetector.o",
+    "swift-dependencies" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/x86_64/AntiDebugDetector.swiftdeps"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/AppDetector/AppDetector.swift" : {
+    "const-values" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/x86_64/AppDetector.swiftconstvalues",
+    "dependencies" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/x86_64/AppDetector.d",
+    "diagnostics" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/x86_64/AppDetector.dia",
+    "object" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/x86_64/AppDetector.o",
+    "swift-dependencies" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/x86_64/AppDetector.swiftdeps"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Core/NetworkDetector.swift" : {
+    "const-values" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/x86_64/NetworkDetector.swiftconstvalues",
+    "dependencies" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/x86_64/NetworkDetector.d",
+    "diagnostics" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/x86_64/NetworkDetector.dia",
+    "object" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/x86_64/NetworkDetector.o",
+    "swift-dependencies" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/x86_64/NetworkDetector.swiftdeps"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Core/ScreenDetector.swift" : {
+    "const-values" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/x86_64/ScreenDetector.swiftconstvalues",
+    "dependencies" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/x86_64/ScreenDetector.d",
+    "diagnostics" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/x86_64/ScreenDetector.dia",
+    "object" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/x86_64/ScreenDetector.o",
+    "swift-dependencies" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/x86_64/ScreenDetector.swiftdeps"
+  }
+}

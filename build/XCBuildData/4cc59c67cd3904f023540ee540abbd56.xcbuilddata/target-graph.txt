@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+Target 'SecureShieldKitTests' in project 'SecureShieldKit'
+➜ Explicit dependency on target 'SecureShieldKit' in project 'SecureShieldKit'
+Target 'SecureShieldKit' in project 'SecureShieldKit' (no dependencies)

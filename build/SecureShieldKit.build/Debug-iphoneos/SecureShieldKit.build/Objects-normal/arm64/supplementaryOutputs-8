@@ -1,0 +1,30 @@
+{
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Utilities/Crypto.swift" : {
+    "const-values" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphoneos/SecureShieldKit.build/Objects-normal/arm64/Crypto.swiftconstvalues",
+    "dependencies" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphoneos/SecureShieldKit.build/Objects-normal/arm64/Crypto.d",
+    "diagnostics" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphoneos/SecureShieldKit.build/Objects-normal/arm64/Crypto.dia",
+    "object" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphoneos/SecureShieldKit.build/Objects-normal/arm64/Crypto.o",
+    "swift-dependencies" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphoneos/SecureShieldKit.build/Objects-normal/arm64/Crypto.swiftdeps"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Utilities/DyldImageScanner.swift" : {
+    "const-values" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphoneos/SecureShieldKit.build/Objects-normal/arm64/DyldImageScanner.swiftconstvalues",
+    "dependencies" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphoneos/SecureShieldKit.build/Objects-normal/arm64/DyldImageScanner.d",
+    "diagnostics" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphoneos/SecureShieldKit.build/Objects-normal/arm64/DyldImageScanner.dia",
+    "object" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphoneos/SecureShieldKit.build/Objects-normal/arm64/DyldImageScanner.o",
+    "swift-dependencies" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphoneos/SecureShieldKit.build/Objects-normal/arm64/DyldImageScanner.swiftdeps"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Utilities/EncryptedConfiguration.swift" : {
+    "const-values" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphoneos/SecureShieldKit.build/Objects-normal/arm64/EncryptedConfiguration.swiftconstvalues",
+    "dependencies" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphoneos/SecureShieldKit.build/Objects-normal/arm64/EncryptedConfiguration.d",
+    "diagnostics" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphoneos/SecureShieldKit.build/Objects-normal/arm64/EncryptedConfiguration.dia",
+    "object" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphoneos/SecureShieldKit.build/Objects-normal/arm64/EncryptedConfiguration.o",
+    "swift-dependencies" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphoneos/SecureShieldKit.build/Objects-normal/arm64/EncryptedConfiguration.swiftdeps"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Utilities/Locking.swift" : {
+    "const-values" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphoneos/SecureShieldKit.build/Objects-normal/arm64/Locking.swiftconstvalues",
+    "dependencies" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphoneos/SecureShieldKit.build/Objects-normal/arm64/Locking.d",
+    "diagnostics" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphoneos/SecureShieldKit.build/Objects-normal/arm64/Locking.dia",
+    "object" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphoneos/SecureShieldKit.build/Objects-normal/arm64/Locking.o",
+    "swift-dependencies" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphoneos/SecureShieldKit.build/Objects-normal/arm64/Locking.swiftdeps"
+  }
+}

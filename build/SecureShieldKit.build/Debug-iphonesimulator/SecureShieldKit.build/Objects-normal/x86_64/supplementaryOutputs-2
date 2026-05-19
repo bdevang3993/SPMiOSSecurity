@@ -1,0 +1,37 @@
+{
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Core/SecureShieldEngine.swift" : {
+    "const-values" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/x86_64/SecureShieldEngine.swiftconstvalues",
+    "dependencies" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/x86_64/SecureShieldEngine.d",
+    "diagnostics" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/x86_64/SecureShieldEngine.dia",
+    "object" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/x86_64/SecureShieldEngine.o",
+    "swift-dependencies" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/x86_64/SecureShieldEngine.swiftdeps"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Core/SecurityDetector.swift" : {
+    "const-values" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/x86_64/SecurityDetector.swiftconstvalues",
+    "dependencies" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/x86_64/SecurityDetector.d",
+    "diagnostics" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/x86_64/SecurityDetector.dia",
+    "object" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/x86_64/SecurityDetector.o",
+    "swift-dependencies" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/x86_64/SecurityDetector.swiftdeps"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Core/ThreatCenter.swift" : {
+    "const-values" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/x86_64/ThreatCenter.swiftconstvalues",
+    "dependencies" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/x86_64/ThreatCenter.d",
+    "diagnostics" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/x86_64/ThreatCenter.dia",
+    "object" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/x86_64/ThreatCenter.o",
+    "swift-dependencies" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/x86_64/ThreatCenter.swiftdeps"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/HookDetection/RuntimeHookDetector.swift" : {
+    "const-values" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/x86_64/RuntimeHookDetector.swiftconstvalues",
+    "dependencies" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/x86_64/RuntimeHookDetector.d",
+    "diagnostics" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/x86_64/RuntimeHookDetector.dia",
+    "object" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/x86_64/RuntimeHookDetector.o",
+    "swift-dependencies" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/x86_64/RuntimeHookDetector.swiftdeps"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Integrity/IntegrityVerifier.swift" : {
+    "const-values" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/x86_64/IntegrityVerifier.swiftconstvalues",
+    "dependencies" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/x86_64/IntegrityVerifier.d",
+    "diagnostics" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/x86_64/IntegrityVerifier.dia",
+    "object" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/x86_64/IntegrityVerifier.o",
+    "swift-dependencies" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/x86_64/IntegrityVerifier.swiftdeps"
+  }
+}

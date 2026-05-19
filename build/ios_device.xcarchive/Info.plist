@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ArchiveVersion</key>
+	<integer>2</integer>
+	<key>CreationDate</key>
+	<date>2026-05-19T09:15:15Z</date>
+	<key>Name</key>
+	<string>SecureShieldKit</string>
+	<key>SchemeName</key>
+	<string>SecureShieldKit</string>
+</dict>
+</plist>

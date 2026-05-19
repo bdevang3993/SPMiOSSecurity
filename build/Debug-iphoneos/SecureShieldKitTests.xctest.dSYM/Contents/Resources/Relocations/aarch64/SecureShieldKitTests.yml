@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/Debug-iphoneos/SecureShieldKitTests.xctest/SecureShieldKitTests'
+relocations:     []
+...

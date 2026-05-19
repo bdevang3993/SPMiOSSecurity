@@ -1,0 +1,201 @@
+{
+  "" : {
+    "const-values" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/SecureShieldKit-primary.swiftconstvalues",
+    "dependencies" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/SecureShieldKit-primary.d",
+    "diagnostics" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/SecureShieldKit-primary.dia",
+    "emit-module-dependencies" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/SecureShieldKit-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/SecureShieldKit-primary-emit-module.dia",
+    "pch" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/SecureShieldKit-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/SecureShieldKit-primary.swiftdeps"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Analytics/MixpanelTracker.swift" : {
+    "index-unit-output-path" : "/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/MixpanelTracker.o",
+    "llvm-bc" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/MixpanelTracker.bc",
+    "object" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/MixpanelTracker.o"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/AntiDebug/AntiDebugDetector.swift" : {
+    "index-unit-output-path" : "/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/AntiDebugDetector.o",
+    "llvm-bc" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/AntiDebugDetector.bc",
+    "object" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/AntiDebugDetector.o"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/AppDetector/AppDetector.swift" : {
+    "index-unit-output-path" : "/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/AppDetector.o",
+    "llvm-bc" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/AppDetector.bc",
+    "object" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/AppDetector.o"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Core/NetworkDetector.swift" : {
+    "index-unit-output-path" : "/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/NetworkDetector.o",
+    "llvm-bc" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/NetworkDetector.bc",
+    "object" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/NetworkDetector.o"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Core/ScreenDetector.swift" : {
+    "index-unit-output-path" : "/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/ScreenDetector.o",
+    "llvm-bc" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/ScreenDetector.bc",
+    "object" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/ScreenDetector.o"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Core/SecureShieldEngine.swift" : {
+    "index-unit-output-path" : "/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/SecureShieldEngine.o",
+    "llvm-bc" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/SecureShieldEngine.bc",
+    "object" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/SecureShieldEngine.o"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Core/SecurityDetector.swift" : {
+    "index-unit-output-path" : "/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/SecurityDetector.o",
+    "llvm-bc" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/SecurityDetector.bc",
+    "object" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/SecurityDetector.o"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Core/ThreatCenter.swift" : {
+    "index-unit-output-path" : "/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/ThreatCenter.o",
+    "llvm-bc" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/ThreatCenter.bc",
+    "object" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/ThreatCenter.o"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/HookDetection/RuntimeHookDetector.swift" : {
+    "index-unit-output-path" : "/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/RuntimeHookDetector.o",
+    "llvm-bc" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/RuntimeHookDetector.bc",
+    "object" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/RuntimeHookDetector.o"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Integrity/IntegrityVerifier.swift" : {
+    "index-unit-output-path" : "/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/IntegrityVerifier.o",
+    "llvm-bc" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/IntegrityVerifier.bc",
+    "object" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/IntegrityVerifier.o"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Internal/UIApplicationBridge.swift" : {
+    "index-unit-output-path" : "/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/UIApplicationBridge.o",
+    "llvm-bc" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/UIApplicationBridge.bc",
+    "object" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/UIApplicationBridge.o"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Jailbreak/JailbreakDetector.swift" : {
+    "index-unit-output-path" : "/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/JailbreakDetector.o",
+    "llvm-bc" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/JailbreakDetector.bc",
+    "object" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/JailbreakDetector.o"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Networking/Core/APIEndpoint.swift" : {
+    "index-unit-output-path" : "/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/APIEndpoint.o",
+    "llvm-bc" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/APIEndpoint.bc",
+    "object" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/APIEndpoint.o"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Networking/Core/APIError.swift" : {
+    "index-unit-output-path" : "/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/APIError.o",
+    "llvm-bc" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/APIError.bc",
+    "object" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/APIError.o"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Networking/Core/APIManager.swift" : {
+    "index-unit-output-path" : "/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/APIManager.o",
+    "llvm-bc" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/APIManager.bc",
+    "object" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/APIManager.o"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Networking/Core/Endpoint.swift" : {
+    "index-unit-output-path" : "/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/Endpoint.o",
+    "llvm-bc" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/Endpoint.bc",
+    "object" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/Endpoint.o"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Networking/Core/ExampleAPIUsage.swift" : {
+    "index-unit-output-path" : "/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/ExampleAPIUsage.o",
+    "llvm-bc" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/ExampleAPIUsage.bc",
+    "object" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/ExampleAPIUsage.o"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Networking/Core/HTTPMethod.swift" : {
+    "index-unit-output-path" : "/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/HTTPMethod.o",
+    "llvm-bc" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/HTTPMethod.bc",
+    "object" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/HTTPMethod.o"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Networking/Core/MultipartHelper.swift" : {
+    "index-unit-output-path" : "/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/MultipartHelper.o",
+    "llvm-bc" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/MultipartHelper.bc",
+    "object" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/MultipartHelper.o"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Networking/Core/NetworkInterceptor.swift" : {
+    "index-unit-output-path" : "/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/NetworkInterceptor.o",
+    "llvm-bc" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/NetworkInterceptor.bc",
+    "object" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/NetworkInterceptor.o"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Networking/Core/NetworkManager.swift" : {
+    "index-unit-output-path" : "/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/NetworkManager.o",
+    "llvm-bc" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/NetworkManager.bc",
+    "object" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/NetworkManager.o"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Networking/Core/RequestBuilder.swift" : {
+    "index-unit-output-path" : "/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/RequestBuilder.o",
+    "llvm-bc" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/RequestBuilder.bc",
+    "object" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/RequestBuilder.o"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Networking/Core/ResponseParser.swift" : {
+    "index-unit-output-path" : "/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/ResponseParser.o",
+    "llvm-bc" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/ResponseParser.bc",
+    "object" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/ResponseParser.o"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Networking/Core/TokenManager.swift" : {
+    "index-unit-output-path" : "/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/TokenManager.o",
+    "llvm-bc" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/TokenManager.bc",
+    "object" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/TokenManager.o"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Networking/Core/URLSession+Extension.swift" : {
+    "index-unit-output-path" : "/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/URLSession+Extension.o",
+    "llvm-bc" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/URLSession+Extension.bc",
+    "object" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/URLSession+Extension.o"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/PublicAPI/SecureShield.swift" : {
+    "index-unit-output-path" : "/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/SecureShield.o",
+    "llvm-bc" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/SecureShield.bc",
+    "object" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/SecureShield.o"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/PublicAPI/SecureShieldConfiguration.swift" : {
+    "index-unit-output-path" : "/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/SecureShieldConfiguration.o",
+    "llvm-bc" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/SecureShieldConfiguration.bc",
+    "object" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/SecureShieldConfiguration.o"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/PublicAPI/Threat.swift" : {
+    "index-unit-output-path" : "/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/Threat.o",
+    "llvm-bc" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/Threat.bc",
+    "object" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/Threat.o"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/ReverseEngineering/ReverseEngineeringDetector.swift" : {
+    "index-unit-output-path" : "/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/ReverseEngineeringDetector.o",
+    "llvm-bc" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/ReverseEngineeringDetector.bc",
+    "object" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/ReverseEngineeringDetector.o"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/RuntimeProtection/DeviceTrustService.swift" : {
+    "index-unit-output-path" : "/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/DeviceTrustService.o",
+    "llvm-bc" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/DeviceTrustService.bc",
+    "object" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/DeviceTrustService.o"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/RuntimeProtection/RuntimeProtector.swift" : {
+    "index-unit-output-path" : "/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/RuntimeProtector.o",
+    "llvm-bc" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/RuntimeProtector.bc",
+    "object" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/RuntimeProtector.o"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/RuntimeProtection/SimulatorDetector.swift" : {
+    "index-unit-output-path" : "/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/SimulatorDetector.o",
+    "llvm-bc" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/SimulatorDetector.bc",
+    "object" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/SimulatorDetector.o"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/SSLPinning/SSLPinning.swift" : {
+    "index-unit-output-path" : "/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/SSLPinning.o",
+    "llvm-bc" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/SSLPinning.bc",
+    "object" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/SSLPinning.o"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/ScreenShotPrevention/ScreenshotPreventView.swift" : {
+    "index-unit-output-path" : "/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/ScreenshotPreventView.o",
+    "llvm-bc" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/ScreenshotPreventView.bc",
+    "object" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/ScreenshotPreventView.o"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Utilities/Crypto.swift" : {
+    "index-unit-output-path" : "/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/Crypto.o",
+    "llvm-bc" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/Crypto.bc",
+    "object" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/Crypto.o"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Utilities/DyldImageScanner.swift" : {
+    "index-unit-output-path" : "/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/DyldImageScanner.o",
+    "llvm-bc" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/DyldImageScanner.bc",
+    "object" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/DyldImageScanner.o"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Utilities/EncryptedConfiguration.swift" : {
+    "index-unit-output-path" : "/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/EncryptedConfiguration.o",
+    "llvm-bc" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/EncryptedConfiguration.bc",
+    "object" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/EncryptedConfiguration.o"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Utilities/Locking.swift" : {
+    "index-unit-output-path" : "/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/Locking.o",
+    "llvm-bc" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/Locking.bc",
+    "object" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Release-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/Locking.o"
+  }
+}

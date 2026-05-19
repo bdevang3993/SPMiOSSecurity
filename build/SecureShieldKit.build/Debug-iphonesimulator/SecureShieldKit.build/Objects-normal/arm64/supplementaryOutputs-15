@@ -1,0 +1,30 @@
+{
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/RuntimeProtection/RuntimeProtector.swift" : {
+    "const-values" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/RuntimeProtector.swiftconstvalues",
+    "dependencies" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/RuntimeProtector.d",
+    "diagnostics" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/RuntimeProtector.dia",
+    "object" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/RuntimeProtector.o",
+    "swift-dependencies" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/RuntimeProtector.swiftdeps"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/RuntimeProtection/SimulatorDetector.swift" : {
+    "const-values" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/SimulatorDetector.swiftconstvalues",
+    "dependencies" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/SimulatorDetector.d",
+    "diagnostics" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/SimulatorDetector.dia",
+    "object" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/SimulatorDetector.o",
+    "swift-dependencies" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/SimulatorDetector.swiftdeps"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/SSLPinning/SSLPinning.swift" : {
+    "const-values" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/SSLPinning.swiftconstvalues",
+    "dependencies" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/SSLPinning.d",
+    "diagnostics" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/SSLPinning.dia",
+    "object" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/SSLPinning.o",
+    "swift-dependencies" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/SSLPinning.swiftdeps"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/ScreenShotPrevention/ScreenshotPreventView.swift" : {
+    "const-values" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/ScreenshotPreventView.swiftconstvalues",
+    "dependencies" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/ScreenshotPreventView.d",
+    "diagnostics" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/ScreenshotPreventView.dia",
+    "object" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/ScreenshotPreventView.o",
+    "swift-dependencies" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/ScreenshotPreventView.swiftdeps"
+  }
+}

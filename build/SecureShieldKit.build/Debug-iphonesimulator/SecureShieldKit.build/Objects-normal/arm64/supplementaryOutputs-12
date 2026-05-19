@@ -1,0 +1,37 @@
+{
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Networking/Core/Endpoint.swift" : {
+    "const-values" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/Endpoint.swiftconstvalues",
+    "dependencies" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/Endpoint.d",
+    "diagnostics" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/Endpoint.dia",
+    "object" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/Endpoint.o",
+    "swift-dependencies" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/Endpoint.swiftdeps"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Networking/Core/ExampleAPIUsage.swift" : {
+    "const-values" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/ExampleAPIUsage.swiftconstvalues",
+    "dependencies" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/ExampleAPIUsage.d",
+    "diagnostics" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/ExampleAPIUsage.dia",
+    "object" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/ExampleAPIUsage.o",
+    "swift-dependencies" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/ExampleAPIUsage.swiftdeps"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Networking/Core/HTTPMethod.swift" : {
+    "const-values" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/HTTPMethod.swiftconstvalues",
+    "dependencies" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/HTTPMethod.d",
+    "diagnostics" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/HTTPMethod.dia",
+    "object" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/HTTPMethod.o",
+    "swift-dependencies" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/HTTPMethod.swiftdeps"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Networking/Core/MultipartHelper.swift" : {
+    "const-values" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/MultipartHelper.swiftconstvalues",
+    "dependencies" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/MultipartHelper.d",
+    "diagnostics" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/MultipartHelper.dia",
+    "object" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/MultipartHelper.o",
+    "swift-dependencies" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/MultipartHelper.swiftdeps"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Networking/Core/NetworkInterceptor.swift" : {
+    "const-values" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/NetworkInterceptor.swiftconstvalues",
+    "dependencies" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/NetworkInterceptor.d",
+    "diagnostics" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/NetworkInterceptor.dia",
+    "object" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/NetworkInterceptor.o",
+    "swift-dependencies" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/build/SecureShieldKit.build/Debug-iphonesimulator/SecureShieldKit.build/Objects-normal/arm64/NetworkInterceptor.swiftdeps"
+  }
+}
