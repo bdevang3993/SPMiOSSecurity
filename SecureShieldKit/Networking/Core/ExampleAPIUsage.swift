@@ -133,7 +133,7 @@ public struct ExampleUserProfileView: View {
             
             Button(action: { viewModel.loadUserProfile(id: 101) }) {
                 Text("Fetch Profile Securely")
-                    .fontWeight(.medium)
+                   // .fontWeight(.medium)
                     .padding()
                     .frame(maxWidth: .infinity)
                     .background(Color.blue)
@@ -175,7 +175,7 @@ public struct ExampleUserProfileView: View {
                 
                 Text(user.role.uppercased())
                     .font(.caption2)
-                    .fontWeight(.bold)
+                    //.fontWeight(.bold)
                     .padding(.horizontal, 12)
                     .padding(.vertical, 6)
                     .background(Color.blue.opacity(0.15))
@@ -189,7 +189,7 @@ public struct ExampleUserProfileView: View {
             
             Button(action: { viewModel.loadUserProfile(id: 101) }) {
                 Label("Refresh Request", systemImage: "arrow.clockwise")
-                    .fontWeight(.medium)
+                  //  .fontWeight(.medium)
                     .padding()
                     .frame(maxWidth: .infinity)
                     .background(Color.blue)
@@ -227,7 +227,7 @@ public struct ExampleUserProfileView: View {
             
             Button(action: { viewModel.loadUserProfile(id: 101) }) {
                 Text("Retry Connection")
-                    .fontWeight(.medium)
+                    //.fontWeight(.medium)
                     .padding()
                     .frame(maxWidth: .infinity)
                     .background(Color.red.opacity(0.2))
