@@ -38,25 +38,9 @@
 		18ADC2642FADDEE800B3671C /* SecureShieldKitTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SecureShieldKitTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
-/* Begin PBXFileSystemSynchronizedGroupBuildPhaseMembershipExceptionSet section */
-		182D96D82FBC634000E4503D /* Exceptions for "SecureShieldKit" folder in "Embed Frameworks" phase from "SecureShieldKit" target */ = {
-			isa = PBXFileSystemSynchronizedGroupBuildPhaseMembershipExceptionSet;
-			attributesByRelativePath = {
-				SecureShieldKit.xcframework = (CodeSignOnCopy, RemoveHeadersOnCopy, );
-			};
-			buildPhase = 182D96D72FBC633F00E4503D /* Embed Frameworks */;
-			membershipExceptions = (
-				SecureShieldKit.xcframework,
-			);
-		};
-/* End PBXFileSystemSynchronizedGroupBuildPhaseMembershipExceptionSet section */
-
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		18ADC25B2FADDEE700B3671C /* SecureShieldKit */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-				182D96D82FBC634000E4503D /* Exceptions for "SecureShieldKit" folder in "Embed Frameworks" phase from "SecureShieldKit" target */,
-			);
 			path = SecureShieldKit;
 			sourceTree = "<group>";
 		};
