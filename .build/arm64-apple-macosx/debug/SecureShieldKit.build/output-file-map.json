@@ -1,0 +1,292 @@
+{
+  "": {
+    "swift-dependencies": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/primary.swiftdeps"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Analytics/MixpanelTracker.swift": {
+    "dependencies": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/MixpanelTracker.d",
+    "object": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/MixpanelTracker.swift.o",
+    "swiftmodule": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/MixpanelTracker~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/MixpanelTracker.swiftdeps",
+    "diagnostics": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/MixpanelTracker.dia"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/AntiDebug/AntiDebugDetector.swift": {
+    "dependencies": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/AntiDebugDetector.d",
+    "object": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/AntiDebugDetector.swift.o",
+    "swiftmodule": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/AntiDebugDetector~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/AntiDebugDetector.swiftdeps",
+    "diagnostics": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/AntiDebugDetector.dia"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/AppDetector/AppDetector.swift": {
+    "dependencies": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/AppDetector.d",
+    "object": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/AppDetector.swift.o",
+    "swiftmodule": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/AppDetector~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/AppDetector.swiftdeps",
+    "diagnostics": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/AppDetector.dia"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Core/NetworkDetector.swift": {
+    "dependencies": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/NetworkDetector.d",
+    "object": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/NetworkDetector.swift.o",
+    "swiftmodule": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/NetworkDetector~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/NetworkDetector.swiftdeps",
+    "diagnostics": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/NetworkDetector.dia"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Core/ScreenDetector.swift": {
+    "dependencies": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/ScreenDetector.d",
+    "object": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/ScreenDetector.swift.o",
+    "swiftmodule": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/ScreenDetector~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/ScreenDetector.swiftdeps",
+    "diagnostics": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/ScreenDetector.dia"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Core/SecureShieldEngine.swift": {
+    "dependencies": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/SecureShieldEngine.d",
+    "object": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/SecureShieldEngine.swift.o",
+    "swiftmodule": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/SecureShieldEngine~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/SecureShieldEngine.swiftdeps",
+    "diagnostics": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/SecureShieldEngine.dia"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Core/SecurityDetector.swift": {
+    "dependencies": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/SecurityDetector.d",
+    "object": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/SecurityDetector.swift.o",
+    "swiftmodule": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/SecurityDetector~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/SecurityDetector.swiftdeps",
+    "diagnostics": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/SecurityDetector.dia"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Core/ThreatCenter.swift": {
+    "dependencies": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/ThreatCenter.d",
+    "object": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/ThreatCenter.swift.o",
+    "swiftmodule": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/ThreatCenter~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/ThreatCenter.swiftdeps",
+    "diagnostics": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/ThreatCenter.dia"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/HookDetection/RuntimeHookDetector.swift": {
+    "dependencies": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/RuntimeHookDetector.d",
+    "object": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/RuntimeHookDetector.swift.o",
+    "swiftmodule": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/RuntimeHookDetector~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/RuntimeHookDetector.swiftdeps",
+    "diagnostics": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/RuntimeHookDetector.dia"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Integrity/IntegrityVerifier.swift": {
+    "dependencies": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/IntegrityVerifier.d",
+    "object": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/IntegrityVerifier.swift.o",
+    "swiftmodule": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/IntegrityVerifier~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/IntegrityVerifier.swiftdeps",
+    "diagnostics": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/IntegrityVerifier.dia"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Internal/UIApplicationBridge.swift": {
+    "dependencies": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/UIApplicationBridge.d",
+    "object": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/UIApplicationBridge.swift.o",
+    "swiftmodule": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/UIApplicationBridge~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/UIApplicationBridge.swiftdeps",
+    "diagnostics": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/UIApplicationBridge.dia"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Jailbreak/JailbreakDetector.swift": {
+    "dependencies": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/JailbreakDetector.d",
+    "object": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/JailbreakDetector.swift.o",
+    "swiftmodule": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/JailbreakDetector~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/JailbreakDetector.swiftdeps",
+    "diagnostics": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/JailbreakDetector.dia"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Networking/Core/APIEndpoint.swift": {
+    "dependencies": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/APIEndpoint.d",
+    "object": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/APIEndpoint.swift.o",
+    "swiftmodule": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/APIEndpoint~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/APIEndpoint.swiftdeps",
+    "diagnostics": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/APIEndpoint.dia"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Networking/Core/APIError.swift": {
+    "dependencies": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/APIError.d",
+    "object": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/APIError.swift.o",
+    "swiftmodule": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/APIError~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/APIError.swiftdeps",
+    "diagnostics": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/APIError.dia"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Networking/Core/APIManager.swift": {
+    "dependencies": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/APIManager.d",
+    "object": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/APIManager.swift.o",
+    "swiftmodule": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/APIManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/APIManager.swiftdeps",
+    "diagnostics": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/APIManager.dia"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Networking/Core/Endpoint.swift": {
+    "dependencies": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/Endpoint.d",
+    "object": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/Endpoint.swift.o",
+    "swiftmodule": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/Endpoint~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/Endpoint.swiftdeps",
+    "diagnostics": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/Endpoint.dia"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Networking/Core/ExampleAPIUsage.swift": {
+    "dependencies": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/ExampleAPIUsage.d",
+    "object": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/ExampleAPIUsage.swift.o",
+    "swiftmodule": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/ExampleAPIUsage~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/ExampleAPIUsage.swiftdeps",
+    "diagnostics": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/ExampleAPIUsage.dia"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Networking/Core/HTTPMethod.swift": {
+    "dependencies": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/HTTPMethod.d",
+    "object": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/HTTPMethod.swift.o",
+    "swiftmodule": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/HTTPMethod~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/HTTPMethod.swiftdeps",
+    "diagnostics": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/HTTPMethod.dia"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Networking/Core/MultipartHelper.swift": {
+    "dependencies": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/MultipartHelper.d",
+    "object": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/MultipartHelper.swift.o",
+    "swiftmodule": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/MultipartHelper~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/MultipartHelper.swiftdeps",
+    "diagnostics": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/MultipartHelper.dia"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Networking/Core/NetworkInterceptor.swift": {
+    "dependencies": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/NetworkInterceptor.d",
+    "object": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/NetworkInterceptor.swift.o",
+    "swiftmodule": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/NetworkInterceptor~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/NetworkInterceptor.swiftdeps",
+    "diagnostics": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/NetworkInterceptor.dia"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Networking/Core/NetworkManager.swift": {
+    "dependencies": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/NetworkManager.d",
+    "object": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/NetworkManager.swift.o",
+    "swiftmodule": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/NetworkManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/NetworkManager.swiftdeps",
+    "diagnostics": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/NetworkManager.dia"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Networking/Core/RequestBuilder.swift": {
+    "dependencies": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/RequestBuilder.d",
+    "object": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/RequestBuilder.swift.o",
+    "swiftmodule": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/RequestBuilder~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/RequestBuilder.swiftdeps",
+    "diagnostics": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/RequestBuilder.dia"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Networking/Core/ResponseParser.swift": {
+    "dependencies": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/ResponseParser.d",
+    "object": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/ResponseParser.swift.o",
+    "swiftmodule": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/ResponseParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/ResponseParser.swiftdeps",
+    "diagnostics": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/ResponseParser.dia"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Networking/Core/TokenManager.swift": {
+    "dependencies": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/TokenManager.d",
+    "object": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/TokenManager.swift.o",
+    "swiftmodule": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/TokenManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/TokenManager.swiftdeps",
+    "diagnostics": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/TokenManager.dia"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Networking/Core/URLSession+Extension.swift": {
+    "dependencies": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/URLSession+Extension.d",
+    "object": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/URLSession+Extension.swift.o",
+    "swiftmodule": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/URLSession+Extension~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/URLSession+Extension.swiftdeps",
+    "diagnostics": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/URLSession+Extension.dia"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/PublicAPI/AESEncryption.swift": {
+    "dependencies": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/AESEncryption.d",
+    "object": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/AESEncryption.swift.o",
+    "swiftmodule": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/AESEncryption~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/AESEncryption.swiftdeps",
+    "diagnostics": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/AESEncryption.dia"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/PublicAPI/HarmfulAppsView.swift": {
+    "dependencies": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/HarmfulAppsView.d",
+    "object": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/HarmfulAppsView.swift.o",
+    "swiftmodule": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/HarmfulAppsView~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/HarmfulAppsView.swiftdeps",
+    "diagnostics": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/HarmfulAppsView.dia"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/PublicAPI/RAS56Encryption.swift": {
+    "dependencies": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/RAS56Encryption.d",
+    "object": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/RAS56Encryption.swift.o",
+    "swiftmodule": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/RAS56Encryption~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/RAS56Encryption.swiftdeps",
+    "diagnostics": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/RAS56Encryption.dia"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/PublicAPI/SecureShield.swift": {
+    "dependencies": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/SecureShield.d",
+    "object": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/SecureShield.swift.o",
+    "swiftmodule": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/SecureShield~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/SecureShield.swiftdeps",
+    "diagnostics": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/SecureShield.dia"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/PublicAPI/SecureShieldConfiguration.swift": {
+    "dependencies": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/SecureShieldConfiguration.d",
+    "object": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/SecureShieldConfiguration.swift.o",
+    "swiftmodule": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/SecureShieldConfiguration~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/SecureShieldConfiguration.swiftdeps",
+    "diagnostics": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/SecureShieldConfiguration.dia"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/PublicAPI/Threat.swift": {
+    "dependencies": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/Threat.d",
+    "object": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/Threat.swift.o",
+    "swiftmodule": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/Threat~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/Threat.swiftdeps",
+    "diagnostics": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/Threat.dia"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/ReverseEngineering/ReverseEngineeringDetector.swift": {
+    "dependencies": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/ReverseEngineeringDetector.d",
+    "object": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/ReverseEngineeringDetector.swift.o",
+    "swiftmodule": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/ReverseEngineeringDetector~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/ReverseEngineeringDetector.swiftdeps",
+    "diagnostics": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/ReverseEngineeringDetector.dia"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/RuntimeProtection/DeviceTrustService.swift": {
+    "dependencies": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/DeviceTrustService.d",
+    "object": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/DeviceTrustService.swift.o",
+    "swiftmodule": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/DeviceTrustService~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/DeviceTrustService.swiftdeps",
+    "diagnostics": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/DeviceTrustService.dia"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/RuntimeProtection/RuntimeProtector.swift": {
+    "dependencies": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/RuntimeProtector.d",
+    "object": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/RuntimeProtector.swift.o",
+    "swiftmodule": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/RuntimeProtector~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/RuntimeProtector.swiftdeps",
+    "diagnostics": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/RuntimeProtector.dia"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/RuntimeProtection/SimulatorDetector.swift": {
+    "dependencies": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/SimulatorDetector.d",
+    "object": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/SimulatorDetector.swift.o",
+    "swiftmodule": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/SimulatorDetector~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/SimulatorDetector.swiftdeps",
+    "diagnostics": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/SimulatorDetector.dia"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/SSLPinning/SSLPinning.swift": {
+    "dependencies": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/SSLPinning.d",
+    "object": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/SSLPinning.swift.o",
+    "swiftmodule": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/SSLPinning~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/SSLPinning.swiftdeps",
+    "diagnostics": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/SSLPinning.dia"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/ScreenShotPrevention/ScreenshotPreventView.swift": {
+    "dependencies": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/ScreenshotPreventView.d",
+    "object": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/ScreenshotPreventView.swift.o",
+    "swiftmodule": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/ScreenshotPreventView~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/ScreenshotPreventView.swiftdeps",
+    "diagnostics": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/ScreenshotPreventView.dia"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Utilities/Crypto.swift": {
+    "dependencies": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/Crypto.d",
+    "object": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/Crypto.swift.o",
+    "swiftmodule": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/Crypto~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/Crypto.swiftdeps",
+    "diagnostics": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/Crypto.dia"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Utilities/DyldImageScanner.swift": {
+    "dependencies": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/DyldImageScanner.d",
+    "object": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/DyldImageScanner.swift.o",
+    "swiftmodule": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/DyldImageScanner~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/DyldImageScanner.swiftdeps",
+    "diagnostics": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/DyldImageScanner.dia"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Utilities/EncryptedConfiguration.swift": {
+    "dependencies": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/EncryptedConfiguration.d",
+    "object": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/EncryptedConfiguration.swift.o",
+    "swiftmodule": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/EncryptedConfiguration~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/EncryptedConfiguration.swiftdeps",
+    "diagnostics": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/EncryptedConfiguration.dia"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Utilities/Locking.swift": {
+    "dependencies": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/Locking.d",
+    "object": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/Locking.swift.o",
+    "swiftmodule": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/Locking~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/Locking.swiftdeps",
+    "diagnostics": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/Locking.dia"
+  }
+}

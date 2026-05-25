@@ -1,0 +1,3 @@
+module SecureShieldKit {
+    header "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/include/SecureShieldKit-Swift.h"
+}

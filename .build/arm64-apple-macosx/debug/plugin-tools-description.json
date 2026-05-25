@@ -1,0 +1,1362 @@
+{
+  "builtTestProducts" : [
+    {
+      "binaryPath" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKitPackageTests.xctest/Contents/MacOS/SecureShieldKitPackageTests",
+      "packagePath" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit",
+      "productName" : "SecureShieldKitPackageTests"
+    }
+  ],
+  "copyCommands" : {
+
+  },
+  "explicitTargetDependencyImportCheckingMode" : {
+    "none" : {
+
+    }
+  },
+  "generatedSourceTargetSet" : [
+
+  ],
+  "pluginDescriptions" : [
+
+  ],
+  "swiftCommands" : {
+    "C.SecureShieldKit-arm64-apple-macosx-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/sources",
+      "importPath" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Analytics/MixpanelTracker.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/AntiDebug/AntiDebugDetector.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/AppDetector/AppDetector.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Core/NetworkDetector.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Core/ScreenDetector.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Core/SecureShieldEngine.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Core/SecurityDetector.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Core/ThreatCenter.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/HookDetection/RuntimeHookDetector.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Integrity/IntegrityVerifier.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Internal/UIApplicationBridge.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Jailbreak/JailbreakDetector.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Networking/Core/APIEndpoint.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Networking/Core/APIError.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Networking/Core/APIManager.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Networking/Core/Endpoint.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Networking/Core/ExampleAPIUsage.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Networking/Core/HTTPMethod.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Networking/Core/MultipartHelper.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Networking/Core/NetworkInterceptor.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Networking/Core/NetworkManager.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Networking/Core/RequestBuilder.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Networking/Core/ResponseParser.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Networking/Core/TokenManager.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Networking/Core/URLSession+Extension.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/PublicAPI/AESEncryption.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/PublicAPI/HarmfulAppsView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/PublicAPI/RAS56Encryption.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/PublicAPI/SecureShield.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/PublicAPI/SecureShieldConfiguration.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/PublicAPI/Threat.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/ReverseEngineering/ReverseEngineeringDetector.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/RuntimeProtection/DeviceTrustService.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/RuntimeProtection/RuntimeProtector.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/RuntimeProtection/SimulatorDetector.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/SSLPinning/SSLPinning.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/ScreenShotPrevention/ScreenshotPreventView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Utilities/Crypto.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Utilities/DyldImageScanner.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Utilities/EncryptedConfiguration.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Utilities/Locking.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "SecureShieldKit",
+      "moduleOutputPath" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/Modules/SecureShieldKit.swiftmodule",
+      "objects" : [
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/MixpanelTracker.swift.o",
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/AntiDebugDetector.swift.o",
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/AppDetector.swift.o",
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/NetworkDetector.swift.o",
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/ScreenDetector.swift.o",
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/SecureShieldEngine.swift.o",
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/SecurityDetector.swift.o",
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/ThreatCenter.swift.o",
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/RuntimeHookDetector.swift.o",
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/IntegrityVerifier.swift.o",
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/UIApplicationBridge.swift.o",
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/JailbreakDetector.swift.o",
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/APIEndpoint.swift.o",
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/APIError.swift.o",
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/APIManager.swift.o",
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/Endpoint.swift.o",
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/ExampleAPIUsage.swift.o",
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/HTTPMethod.swift.o",
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/MultipartHelper.swift.o",
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/NetworkInterceptor.swift.o",
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/NetworkManager.swift.o",
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/RequestBuilder.swift.o",
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/ResponseParser.swift.o",
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/TokenManager.swift.o",
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/URLSession+Extension.swift.o",
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/AESEncryption.swift.o",
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/HarmfulAppsView.swift.o",
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/RAS56Encryption.swift.o",
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/SecureShield.swift.o",
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/SecureShieldConfiguration.swift.o",
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/Threat.swift.o",
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/ReverseEngineeringDetector.swift.o",
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/DeviceTrustService.swift.o",
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/RuntimeProtector.swift.o",
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/SimulatorDetector.swift.o",
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/SSLPinning.swift.o",
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/ScreenshotPreventView.swift.o",
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/Crypto.swift.o",
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/DyldImageScanner.swift.o",
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/EncryptedConfiguration.swift.o",
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/Locking.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx12.0",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-index-store-path",
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/include/SecureShieldKit-Swift.h",
+        "-swift-version",
+        "5",
+        "-plugin-path",
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "secureshieldkit"
+      ],
+      "outputFileMapPath" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/MixpanelTracker.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/AntiDebugDetector.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/AppDetector.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/NetworkDetector.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/ScreenDetector.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/SecureShieldEngine.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/SecurityDetector.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/ThreatCenter.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/RuntimeHookDetector.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/IntegrityVerifier.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/UIApplicationBridge.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/JailbreakDetector.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/APIEndpoint.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/APIError.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/APIManager.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/Endpoint.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/ExampleAPIUsage.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/HTTPMethod.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/MultipartHelper.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/NetworkInterceptor.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/NetworkManager.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/RequestBuilder.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/ResponseParser.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/TokenManager.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/URLSession+Extension.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/AESEncryption.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/HarmfulAppsView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/RAS56Encryption.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/SecureShield.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/SecureShieldConfiguration.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/Threat.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/ReverseEngineeringDetector.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/DeviceTrustService.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/RuntimeProtector.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/SimulatorDetector.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/SSLPinning.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/ScreenshotPreventView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/Crypto.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/DyldImageScanner.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/EncryptedConfiguration.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/Locking.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/Modules/SecureShieldKit.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Analytics/MixpanelTracker.swift",
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/AntiDebug/AntiDebugDetector.swift",
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/AppDetector/AppDetector.swift",
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Core/NetworkDetector.swift",
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Core/ScreenDetector.swift",
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Core/SecureShieldEngine.swift",
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Core/SecurityDetector.swift",
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Core/ThreatCenter.swift",
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/HookDetection/RuntimeHookDetector.swift",
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Integrity/IntegrityVerifier.swift",
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Internal/UIApplicationBridge.swift",
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Jailbreak/JailbreakDetector.swift",
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Networking/Core/APIEndpoint.swift",
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Networking/Core/APIError.swift",
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Networking/Core/APIManager.swift",
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Networking/Core/Endpoint.swift",
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Networking/Core/ExampleAPIUsage.swift",
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Networking/Core/HTTPMethod.swift",
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Networking/Core/MultipartHelper.swift",
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Networking/Core/NetworkInterceptor.swift",
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Networking/Core/NetworkManager.swift",
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Networking/Core/RequestBuilder.swift",
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Networking/Core/ResponseParser.swift",
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Networking/Core/TokenManager.swift",
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Networking/Core/URLSession+Extension.swift",
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/PublicAPI/AESEncryption.swift",
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/PublicAPI/HarmfulAppsView.swift",
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/PublicAPI/RAS56Encryption.swift",
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/PublicAPI/SecureShield.swift",
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/PublicAPI/SecureShieldConfiguration.swift",
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/PublicAPI/Threat.swift",
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/ReverseEngineering/ReverseEngineeringDetector.swift",
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/RuntimeProtection/DeviceTrustService.swift",
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/RuntimeProtection/RuntimeProtector.swift",
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/RuntimeProtection/SimulatorDetector.swift",
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/SSLPinning/SSLPinning.swift",
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/ScreenShotPrevention/ScreenshotPreventView.swift",
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Utilities/Crypto.swift",
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Utilities/DyldImageScanner.swift",
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Utilities/EncryptedConfiguration.swift",
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Utilities/Locking.swift"
+      ],
+      "tempsPath" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.SecureShieldKitPackageTests-arm64-apple-macosx-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKitPackageTests.build/sources",
+      "importPath" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKitPackageTests.derived/runner.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/Modules/SecureShieldKitTests.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKitPackageTests.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "SecureShieldKitPackageTests",
+      "moduleOutputPath" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/Modules/SecureShieldKitPackageTests.swiftmodule",
+      "objects" : [
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKitPackageTests.build/runner.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx12.0",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-index-store-path",
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-Xfrontend",
+        "-enable-cross-import-overlays",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKitPackageTests.build/include/SecureShieldKitPackageTests-Swift.h",
+        "-plugin-path",
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "secureshieldkit"
+      ],
+      "outputFileMapPath" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKitPackageTests.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKitPackageTests.build/runner.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/Modules/SecureShieldKitPackageTests.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKitPackageTests.derived/runner.swift"
+      ],
+      "tempsPath" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKitPackageTests.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.SecureShieldKitTests-arm64-apple-macosx-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKitTests.build/sources",
+      "importPath" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKitTests/SecureShieldKitTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/Modules/SecureShieldKit.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKitTests.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "SecureShieldKitTests",
+      "moduleOutputPath" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/Modules/SecureShieldKitTests.swiftmodule",
+      "objects" : [
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKitTests.build/SecureShieldKitTests.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx14.0",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-index-store-path",
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-Xfrontend",
+        "-enable-cross-import-overlays",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-swift-version",
+        "5",
+        "-plugin-path",
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "secureshieldkit"
+      ],
+      "outputFileMapPath" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKitTests.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKitTests.build/SecureShieldKitTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/Modules/SecureShieldKitTests.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKitTests/SecureShieldKitTests.swift"
+      ],
+      "tempsPath" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKitTests.build",
+      "wholeModuleOptimization" : false
+    }
+  },
+  "swiftFrontendCommands" : {
+
+  },
+  "swiftTargetScanArgs" : {
+    "SecureShieldKit" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "SecureShieldKit",
+      "-package-name",
+      "secureshieldkit",
+      "-c",
+      "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Analytics/MixpanelTracker.swift",
+      "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/AntiDebug/AntiDebugDetector.swift",
+      "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/AppDetector/AppDetector.swift",
+      "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Core/NetworkDetector.swift",
+      "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Core/ScreenDetector.swift",
+      "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Core/SecureShieldEngine.swift",
+      "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Core/SecurityDetector.swift",
+      "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Core/ThreatCenter.swift",
+      "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/HookDetection/RuntimeHookDetector.swift",
+      "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Integrity/IntegrityVerifier.swift",
+      "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Internal/UIApplicationBridge.swift",
+      "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Jailbreak/JailbreakDetector.swift",
+      "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Networking/Core/APIEndpoint.swift",
+      "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Networking/Core/APIError.swift",
+      "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Networking/Core/APIManager.swift",
+      "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Networking/Core/Endpoint.swift",
+      "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Networking/Core/ExampleAPIUsage.swift",
+      "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Networking/Core/HTTPMethod.swift",
+      "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Networking/Core/MultipartHelper.swift",
+      "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Networking/Core/NetworkInterceptor.swift",
+      "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Networking/Core/NetworkManager.swift",
+      "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Networking/Core/RequestBuilder.swift",
+      "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Networking/Core/ResponseParser.swift",
+      "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Networking/Core/TokenManager.swift",
+      "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Networking/Core/URLSession+Extension.swift",
+      "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/PublicAPI/AESEncryption.swift",
+      "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/PublicAPI/HarmfulAppsView.swift",
+      "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/PublicAPI/RAS56Encryption.swift",
+      "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/PublicAPI/SecureShield.swift",
+      "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/PublicAPI/SecureShieldConfiguration.swift",
+      "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/PublicAPI/Threat.swift",
+      "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/ReverseEngineering/ReverseEngineeringDetector.swift",
+      "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/RuntimeProtection/DeviceTrustService.swift",
+      "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/RuntimeProtection/RuntimeProtector.swift",
+      "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/RuntimeProtection/SimulatorDetector.swift",
+      "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/SSLPinning/SSLPinning.swift",
+      "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/ScreenShotPrevention/ScreenshotPreventView.swift",
+      "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Utilities/Crypto.swift",
+      "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Utilities/DyldImageScanner.swift",
+      "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Utilities/EncryptedConfiguration.swift",
+      "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Utilities/Locking.swift",
+      "-I",
+      "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx12.0",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-index-store-path",
+      "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-j8",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/include/SecureShieldKit-Swift.h",
+      "-swift-version",
+      "5",
+      "-plugin-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "secureshieldkit",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "SecureShieldKitPackageTests" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "SecureShieldKitPackageTests",
+      "-package-name",
+      "secureshieldkit",
+      "-c",
+      "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKitPackageTests.derived/runner.swift",
+      "-I",
+      "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx12.0",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-index-store-path",
+      "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-Xfrontend",
+      "-enable-cross-import-overlays",
+      "-j8",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKitPackageTests.build/include/SecureShieldKitPackageTests-Swift.h",
+      "-plugin-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "secureshieldkit",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "SecureShieldKitTests" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "SecureShieldKitTests",
+      "-package-name",
+      "secureshieldkit",
+      "-c",
+      "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKitTests/SecureShieldKitTests.swift",
+      "-I",
+      "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx14.0",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-index-store-path",
+      "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-Xfrontend",
+      "-enable-cross-import-overlays",
+      "-j8",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-swift-version",
+      "5",
+      "-plugin-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "secureshieldkit",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ]
+  },
+  "targetDependencyMap" : {
+    "SecureShieldKit" : [
+
+    ],
+    "SecureShieldKitPackageTests" : [
+      "SecureShieldKitTests",
+      "SecureShieldKit"
+    ],
+    "SecureShieldKitTests" : [
+      "SecureShieldKit"
+    ]
+  },
+  "testDiscoveryCommands" : {
+
+  },
+  "testEntryPointCommands" : {
+    "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKitPackageTests.derived/runner.swift" : {
+      "inputs" : [
+
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKitPackageTests.derived/runner.swift"
+        }
+      ]
+    }
+  },
+  "traitConfiguration" : {
+    "default" : {
+
+    }
+  },
+  "writeCommands" : {
+    "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Analytics/MixpanelTracker.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/AntiDebug/AntiDebugDetector.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/AppDetector/AppDetector.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Core/NetworkDetector.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Core/ScreenDetector.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Core/SecureShieldEngine.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Core/SecurityDetector.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Core/ThreatCenter.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/HookDetection/RuntimeHookDetector.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Integrity/IntegrityVerifier.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Internal/UIApplicationBridge.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Jailbreak/JailbreakDetector.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Networking/Core/APIEndpoint.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Networking/Core/APIError.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Networking/Core/APIManager.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Networking/Core/Endpoint.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Networking/Core/ExampleAPIUsage.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Networking/Core/HTTPMethod.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Networking/Core/MultipartHelper.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Networking/Core/NetworkInterceptor.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Networking/Core/NetworkManager.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Networking/Core/RequestBuilder.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Networking/Core/ResponseParser.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Networking/Core/TokenManager.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Networking/Core/URLSession+Extension.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/PublicAPI/AESEncryption.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/PublicAPI/HarmfulAppsView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/PublicAPI/RAS56Encryption.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/PublicAPI/SecureShield.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/PublicAPI/SecureShieldConfiguration.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/PublicAPI/Threat.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/ReverseEngineering/ReverseEngineeringDetector.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/RuntimeProtection/DeviceTrustService.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/RuntimeProtection/RuntimeProtector.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/RuntimeProtection/SimulatorDetector.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/SSLPinning/SSLPinning.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/ScreenShotPrevention/ScreenshotPreventView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Utilities/Crypto.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Utilities/DyldImageScanner.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Utilities/EncryptedConfiguration.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKit/Utilities/Locking.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/sources"
+    },
+    "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKitPackageTests.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKitPackageTests.derived/runner.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKitPackageTests.build/sources"
+    },
+    "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKitPackageTests.product/Objects.LinkFileList" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<link-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/AESEncryption.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/APIEndpoint.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/APIError.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/APIManager.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/AntiDebugDetector.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/AppDetector.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/Crypto.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/DeviceTrustService.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/DyldImageScanner.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/EncryptedConfiguration.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/Endpoint.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/ExampleAPIUsage.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/HTTPMethod.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/HarmfulAppsView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/IntegrityVerifier.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/JailbreakDetector.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/Locking.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/MixpanelTracker.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/MultipartHelper.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/NetworkDetector.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/NetworkInterceptor.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/NetworkManager.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/RAS56Encryption.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/RequestBuilder.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/ResponseParser.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/ReverseEngineeringDetector.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/RuntimeHookDetector.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/RuntimeProtector.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/SSLPinning.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/ScreenDetector.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/ScreenshotPreventView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/SecureShield.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/SecureShieldConfiguration.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/SecureShieldEngine.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/SecurityDetector.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/SimulatorDetector.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/Threat.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/ThreatCenter.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/TokenManager.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/UIApplicationBridge.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKit.build/URLSession+Extension.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKitPackageTests.build/runner.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKitTests.build/SecureShieldKitTests.swift.o"
+        }
+      ],
+      "outputFilePath" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKitPackageTests.product/Objects.LinkFileList"
+    },
+    "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKitTests.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKitTests/SecureShieldKitTests.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKitTests.build/sources"
+    },
+    "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt" : {
+      "alwaysOutOfDate" : true,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<swift-get-version>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+        }
+      ],
+      "outputFilePath" : "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+    }
+  }
+}

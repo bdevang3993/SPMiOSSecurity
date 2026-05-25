@@ -1,0 +1,12 @@
+{
+  "": {
+    "swift-dependencies": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKitTests.build/primary.swiftdeps"
+  },
+  "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/SecureShieldKitTests/SecureShieldKitTests.swift": {
+    "dependencies": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKitTests.build/SecureShieldKitTests.d",
+    "object": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKitTests.build/SecureShieldKitTests.swift.o",
+    "swiftmodule": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKitTests.build/SecureShieldKitTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKitTests.build/SecureShieldKitTests.swiftdeps",
+    "diagnostics": "/Users/apple/Documents/APISetupFrameworkwithAllSecurity/SecureShieldKit/.build/arm64-apple-macosx/debug/SecureShieldKitTests.build/SecureShieldKitTests.dia"
+  }
+}
