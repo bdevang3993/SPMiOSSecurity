@@ -83,7 +83,7 @@ Add SecureShieldKit to your `Package.swift`:
 ```swift
 dependencies: [
     .package(
-        url: "https://github.com/your-org/SecureShieldKit.git",
+        url: "https://github.com/bdevang3993/SPMiOSSecurity.git",
         from: "1.0.0"
     )
 ]
