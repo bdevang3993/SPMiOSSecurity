@@ -501,6 +501,335 @@ SecureShieldKit
 
 ---
 
+# Flutter AppDelegate Integration
+Update:
+ios/Runner/AppDelegate.swift
+
+import UIKit
+import Flutter
+import SecureShield
+
+@main
+@objc class AppDelegate: FlutterAppDelegate {
+
+    var apps: [String] = []
+    var errorList: [String] = []
+
+    override func application(
+        _ application: UIApplication,
+        didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?
+    ) -> Bool {
+
+        GeneratedPluginRegistrant.register(with: self)
+
+        configureSecureShield()
+        callBack()
+
+        return super.application(application, didFinishLaunchingWithOptions: launchOptions)
+    }
+
+    private func configureSecureShield() {
+        let config = SecureShieldConfiguration(
+            enableRuntimeMonitoring: true,
+            monitoringInterval: 10,
+            failClosedOnPinningError: true,
+            expectedTeamIdentifier: "9NPKQVN8KG",
+            expectedBundleIdentifier: Bundle.main.bundleIdentifier ?? "com.example.myApp"
+        )
+
+        SecureShield.configure(
+            SecureShieldConfiguration(
+                monitoredAppSchemes: [
+                    "anydesk",
+                    "teamviewer",
+                    "zoomus",
+                    "msteams"
+                ]
+            )
+        )
+
+        SecureShield.start()
+
+        apps = AppDetector.installedApps()
+
+        print("All screen recording apps = \(apps)")
+
+        if SecureShield.isJailbroken() {
+            print("Jailbreak detected - Device compromised")
+        }
+    }
+
+    private func callBack() {
+        SecureShield.onThreatDetected { threat in
+            DispatchQueue.main.async { [self] in
+                switch threat.type {
+                case .sslPinningFailure:
+                    errorList.append("SSL PINNING ERROR: The server certificate does not match the pinned certificate. The connection might be intercepted!")
+                    print("SSL PINNING ERROR: The server certificate does not match the pinned certificate. The connection might be intercepted!")
+
+                case .jailbreak:
+                    errorList.append("JAILBREAK DETECTED: The device environment is compromised.")
+                    print("JAILBREAK DETECTED: The device environment is compromised.")
+
+                case .debugger:
+                    errorList.append("DEBUGGER DETECTED: A debugger is attached to the process.")
+                    print("DEBUGGER DETECTED: A debugger is attached to the process.")
+
+                default:
+                    errorList.append("Security Threat Detected: \(threat.type) - Level: \(threat.level)")
+                    print("Security Threat Detected: \(threat.type) - Level: \(threat.level)")
+                }
+
+                self.errorList = Array(Set(errorList))
+            }
+        }
+    }
+}
+---
+
+# React Native Integration
+
+## Add the Framework
+
+1. Open:
+
+```text
+ios/YourProject.xcworkspace
+```
+
+2. Add:
+
+```text
+SecureShield.xcframework
+```
+
+3. Set framework embedding to:
+
+```text
+Embed & Sign
+```
+
+---
+
+## React Native AppDelegate Example
+
+```swift
+import UIKit
+import React
+import React_RCTAppDelegate
+import SecureShield
+
+@main
+class AppDelegate: RCTAppDelegate {
+
+    var apps: [String] = []
+    var errorList: [String] = []
+
+    override func application(
+        _ application: UIApplication,
+        didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?
+    ) -> Bool {
+
+        configureSecureShield()
+        callBack()
+
+        return super.application(application, didFinishLaunchingWithOptions: launchOptions)
+    }
+
+    private func configureSecureShield() {
+        let config = SecureShieldConfiguration(
+            enableRuntimeMonitoring: true,
+            monitoringInterval: 10,
+            failClosedOnPinningError: true,
+            expectedTeamIdentifier: "9NPKQVN8KG",
+            expectedBundleIdentifier: Bundle.main.bundleIdentifier ?? "com.example.myApp"
+        )
+
+        SecureShield.configure(config)
+
+        SecureShield.configure(
+            SecureShieldConfiguration(
+                monitoredAppSchemes: [
+                    "anydesk",
+                    "teamviewer",
+                    "zoomus",
+                    "msteams"
+                ]
+            )
+        )
+
+        SecureShield.start()
+
+        apps = AppDetector.installedApps()
+
+        print("All screen recording apps = \(apps)")
+
+        if SecureShield.isJailbroken() {
+            print("Jailbreak detected - Device compromised")
+        }
+    }
+
+    private func callBack() {
+        SecureShield.onThreatDetected { threat in
+            DispatchQueue.main.async { [self] in
+                switch threat.type {
+                case .sslPinningFailure:
+                    errorList.append("SSL PINNING ERROR: The server certificate does not match the pinned certificate. The connection might be intercepted!")
+                    print("SSL PINNING ERROR: The server certificate does not match the pinned certificate. The connection might be intercepted!")
+
+                case .jailbreak:
+                    errorList.append("JAILBREAK DETECTED: The device environment is compromised.")
+                    print("JAILBREAK DETECTED: The device environment is compromised.")
+
+                case .debugger:
+                    errorList.append("DEBUGGER DETECTED: A debugger is attached to the process.")
+                    print("DEBUGGER DETECTED: A debugger is attached to the process.")
+
+                default:
+                    errorList.append("Security Threat Detected: \(threat.type) - Level: \(threat.level)")
+                    print("Security Threat Detected: \(threat.type) - Level: \(threat.level)")
+                }
+
+                self.errorList = Array(Set(errorList))
+            }
+        }
+    }
+}
+
+---
+# SwiftUI Integration (.App)
+
+Use the following implementation inside your SwiftUI `.App` entry point.
+
+```swift
+import SwiftUI
+import SecureShield
+
+@main
+struct SecureShieldDemoApp: App {
+
+    @State private var errorList: [String] = []
+
+    init() {
+        // 1. Configure the shield for Reverse Engineering protection and SSL Pinning
+        let config = SecureShieldConfiguration(
+            enableRuntimeMonitoring: true,
+            monitoringInterval: 10,
+            failClosedOnPinningError: true,
+            expectedTeamIdentifier: "9NPKQVN8KG",
+            expectedBundleIdentifier: "Neosoft.SecureScreenShotUsingScrollView"
+        )
+
+        SecureShield.configure(config)
+
+        // 2. Configure SSL Pinning (Placeholder)
+        // To enable SSL Pinning, add your certificate data here:
+        /*
+        if let certPath = Bundle.main.path(forResource: "api_cert", ofType: "cer"),
+           let certData = try? Data(contentsOf: URL(fileURLWithPath: certPath)) {
+            SecureShield.enableSSLPinning(certificates: [certData])
+        }
+        */
+
+        // 3. Start active monitoring for threats
+        SecureShield.start()
+
+        // 4. Initial Integrity Check
+        if SecureShield.isJailbroken() {
+            print("⚠️ Jailbreak detected - Device compromised")
+        }
+    }
+
+    @MainActor
+    func callBack() async {
+        // Register a threat handler to react to security breaches
+        SecureShield.onThreatDetected { threat in
+            DispatchQueue.main.async {
+                switch threat.type {
+                case .sslPinningFailure:
+                    errorList.append("🚨 SSL PINNING ERROR: The server certificate does not match the pinned certificate. The connection might be intercepted!")
+                    print("🚨 SSL PINNING ERROR: The server certificate does not match the pinned certificate. The connection might be intercepted!")
+
+                case .jailbreak:
+                    errorList.append("⚠️ JAILBREAK DETECTED: The device environment is compromised.")
+                    print("⚠️ JAILBREAK DETECTED: The device environment is compromised.")
+
+                case .debugger:
+                    errorList.append("🛠 DEBUGGER DETECTED: A debugger is attached to the process.")
+                    print("🛠 DEBUGGER DETECTED: A debugger is attached to the process.")
+
+                default:
+                    errorList.append("🚨 Security Threat Detected: \(threat.type) - Level: \(threat.level)")
+                    print("🚨 Security Threat Detected: \(threat.type) - Level: \(threat.level)")
+                }
+
+                self.errorList = Array(Set(errorList))
+            }
+        }
+    }
+
+    var body: some Scene {
+        WindowGroup {
+            ContentView(errorList: $errorList)
+                .preventScreenshot()
+                .onAppear() {
+                    Task {
+                        await callBack()
+                    }
+                }
+        }
+    }
+}
+---
+
+# Swift Integration (SceneDelegate)
+---
+let window = UIWindow(windowScene: windowScene)
+        
+        let mainVC = UIStoryboard(name: "Main", bundle: nil)
+            .instantiateViewController(withIdentifier: "ViewController") as! ViewController
+        
+        // Wrap UIKit VC → SwiftUI → ScreenshotPreventView
+        
+        let navigationController =
+                    UINavigationController(rootViewController: mainVC)
+
+        let protectedRoot = ScreenshotPreventView {
+                    NavigationControllerWrapper(
+                        navigationController: navigationController
+                    )
+                }
+        
+        let hostingController =
+                    UIHostingController(rootView: protectedRoot)
+        
+        window.rootViewController = hostingController
+        self.window = window
+        window.makeKeyAndVisible()
+
+
+
+---
+
+# Additional Features
+
+## Screen Recording App Detection
+
+The SDK can detect installed remote-screen or screen-recording related applications.
+
+Example monitored applications:
+
+```text
+anydesk
+teamviewer
+zoomus
+msteams
+```
+
+---
+
+---
+
 ## Security Notes
 
 - No security framework can guarantee absolute protection.
