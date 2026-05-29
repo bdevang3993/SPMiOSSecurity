@@ -501,7 +501,7 @@ SecureShieldKit
 
 ---
 
-# Flutter AppDelegate Integration
+### Flutter AppDelegate Integration
 Update:
 ios/Runner/AppDelegate.swift
 
@@ -587,7 +587,7 @@ import SecureShield
 }
 ---
 
-# React Native Integration
+### React Native Integration
 
 ## Add the Framework
 
@@ -695,9 +695,9 @@ class AppDelegate: RCTAppDelegate {
         }
     }
 }
-
 ---
-# SwiftUI Integration (.App)
+
+ **SwiftUI Intergration**
 
 Use the following implementation inside your SwiftUI `.App` entry point.
 
